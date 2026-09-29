@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner.png" width="100%" alt="Farzam Tahmasebmirza — senior backend engineer, Freiburg">
-</div>
-
 ## Farzam Tahmasebmirza
 
 Most of what I've built lives behind company repos. This account is where the
