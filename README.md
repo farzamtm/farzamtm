@@ -1,7 +1,6 @@
 ## Farzam Tahmasebmirza
 
-Most of what I've built lives behind company repos. This account is where the
-work outside of that will land.
+My day-job code is private. The pinned repos aren't. Take a look.
 
 ---
 
