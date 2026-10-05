@@ -2,6 +2,20 @@
 
 My day-job code is private. The pinned repos aren't. Take a look.
 
+### Featured
+
+**[mcp-guardrails](https://github.com/farzamtm/mcp-guardrails)** — a local
+guardrail proxy for the Model Context Protocol. It sits between an AI agent and
+its tools: policy rules, human approval, budgets, prompt-injection fencing,
+secret redaction and container isolation, in one Native AOT binary. C# / .NET 10,
+100% line and branch coverage.
+
+**[mini-custody](https://github.com/farzamtm/mini-custody)** — a crypto-custody
+backend where no single compromised component can move funds: four-eyes Ed25519
+approvals, an isolated signer that re-verifies every one, a double-entry ledger in
+exact wei, and a transactional outbox over Kafka. Java 25 / Spring Boot 4,
+Postgres, a local Ethereum node.
+
 ---
 
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
